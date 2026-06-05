@@ -2,12 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Saghar%20Mehmood&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20Multimodal%20AI&descAlignY=56&descAlign=50&descSize=22"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=false&width=600&lines=🧠+AI+%26+Deep+Learning+Engineer;🔬+EEG+Signal+Processing+Specialist;👁️+Computer+Vision+%26+Multimodal+AI;🚀+Building+Intelligent+Systems;🎓+BS+Artificial+Intelligence+Graduate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=false&width=650&lines=🧠+AI+%26+Deep+Learning+Engineer;🔬+EEG+Signal+Processing+Specialist;👁️+Computer+Vision+%26+Multimodal+AI;🚀+Building+Intelligent+Systems+Beyond+Traditional+AI;🎓+BS+Artificial+Intelligence+Graduate" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saghar%20Mehmood-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saghar-mehmood-701332296)
 [![GitHub](https://img.shields.io/badge/GitHub-SagharMehmood7860-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagharMehmood7860)
+[![Gmail](https://img.shields.io/badge/Gmail-sattisaghar7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sattisaghar7@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Islamabad%2C%20Pakistan-32CD32?style=for-the-badge)](https://github.com/SagharMehmood7860)
 [![Profile Views](https://komarev.com/ghpvc/?username=SagharMehmood7860&style=for-the-badge&color=6A5ACD&label=PROFILE+VIEWS)](https://github.com/SagharMehmood7860)
 
@@ -15,31 +16,19 @@
 
 ---
 
-<img align="right" alt="AI Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 ## 🧠 About Me
 
-```python
-class SagharMehmood:
-    def __init__(self):
-        self.name       = "Saghar Mehmood"
-        self.role       = "AI Engineer"
-        self.education  = "BS Artificial Intelligence"
-        self.location   = "Islamabad, Pakistan"
-        self.focus      = [
-            "Deep Learning",
-            "Multimodal AI",
-            "EEG Signal Processing",
-            "Computer Vision",
-            "Backend AI Systems"
-        ]
-    
-    def current_goal(self):
-        return "Building scalable AI systems that combine ML, \
-backend engineering & intelligent automation."
+<img align="right" alt="AI Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-me = SagharMehmood()
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=6A5ACD&vCenter=true&multiline=true&width=480&height=160&lines=👨‍💻+Name++++:+Saghar+Mehmood;🎓+Degree+++:+BS+Artificial+Intelligence;📍+Location+:+Islamabad%2C+Pakistan;🔭+Focus++++:+Deep+Learning+%7C+Multimodal+AI;🧠+Specialty+:+EEG+%7C+Vision+%7C+Voice+Fusion;🚀+Goal+++++:+Scalable+Production+AI+Systems" alt="About Typing" />
+
+<br/>
+
+🔹 I am a passionate **AI Engineer** specializing in **Multimodal Deep Learning** — combining EEG biosignals, computer vision, and audio intelligence into unified AI pipelines.
+
+🔹 My Final Year Project, a **Multimodal Lie Detection System**, integrates three AI modalities — EEG signals, facial expressions, and voice — achieving **93% video accuracy**, **83% EEG accuracy**, and **88% audio accuracy**.
+
+🔹 I thrive at the intersection of **research and engineering**, building systems that go beyond traditional single-modal machine learning.
 
 <br clear="right"/>
 
@@ -53,7 +42,7 @@ me = SagharMehmood()
 |:---|:---|
 | 🧠 Multimodal AI System | Built Lie Detection using EEG + Voice + Facial Analysis |
 | ⚡ Real-time APIs | Developed Flask REST APIs for live AI inference |
-| 🧬 Deep Learning Models | Implemented CNN, LSTM, GRU & XGBoost pipelines |
+| 🧬 Deep Learning Models | LSTM · XGBoost · CNN  pipelines |
 | 📡 EEG Signal Processing | Alpha, Beta, Gamma, Theta & Delta band decomposition |
 | 👁️ Computer Vision | Facial analysis with OpenCV & DeepFace |
 | 🎤 Audio Intelligence | Acoustic feature extraction using Librosa & MFCC |
@@ -108,35 +97,47 @@ me = SagharMehmood()
 <div align="center">
 
 ### 🧠 Multimodal Lie Detection System — Final Year Project
-**September 2025 – Completed ✅**
+**✅ Completed**
 
 </div>
 
-> *AI-powered deception detection system integrating EEG signals, facial expressions, and voice analysis into a unified multimodal prediction pipeline.*
+> *AI-powered deception detection system integrating EEG signals, facial expressions, and voice analysis into a unified multimodal prediction pipeline — achieving state-of-the-art accuracy across all three modalities.*
 
 <details>
 <summary><b>🔍 Click to Expand Full Details</b></summary>
 
 <br/>
 
+**🎯 Model Architecture & Accuracies:**
+
+| 🔬 Modality | 🤖 Model Used | 📊 Accuracy |
+|:---|:---|:---:|
+| 🎥 Video / Facial Expressions | **LSTM** | **93%** ✅ |
+| 🧠 EEG Brain Signals | **XGBoost** | **88%** ✅ |
+| 🎤 Audio / Voice Analysis | **XGBoost** | **83%** ✅ |
+
+<br/>
+
 **🔹 Core Features:**
-- ✅ CNN, LSTM, GRU, and XGBoost models for multi-source prediction fusion
+- ✅ LSTM for video/facial expression sequence modeling
+- ✅ XGBoost for EEG brainwave pattern classification
+- ✅ XGBoost for audio/acoustic feature-based prediction
 - ✅ EEG frequency-band analysis — Alpha, Beta, Gamma, Theta, Delta decomposition
 - ✅ Real-time facial expression detection and landmark analysis
 - ✅ Audio feature extraction using Librosa & MFCC coefficients
-- ✅ Flask REST API backend for real-time AI inference
+- ✅ Fast/Flask REST API backend for real-time AI inference
 - ✅ React Native frontend with live data integration
 - ✅ SQL Server database for session & result management
 
 **🛠️ Technologies Used:**
-`Python` • `TensorFlow` • `Flask` • `React Native` • `OpenCV` • `DeepFace` • `SQL Server` • `Librosa`
+`Python` • `TensorFlow` • `Scikit-Learn` • `XGBoost` • `Flask` • `React Native` • `OpenCV` • `DeepFace` • `SQL Server` • `Librosa`
 
 **📊 Modalities Integrated:**
 | Modality | Method | Features |
 |:---|:---|:---|
-| 🧠 EEG Signals | Frequency Band Analysis | Alpha, Beta, Gamma, Theta, Delta |
-| 👁️ Facial Analysis | CNN + DeepFace | Micro-expressions, Landmarks |
-| 🎤 Voice Analysis | Librosa + MFCC | Pitch, Tone, Spectral Features |
+| 🧠 EEG Signals | XGBoost + Frequency Band Analysis | Alpha, Beta, Gamma, Theta, Delta |
+| 👁️ Facial / Video | LSTM + DeepFace | Micro-expressions, Temporal Sequences |
+| 🎤 Voice Analysis | XGBoost + Librosa | MFCC, Pitch, Tone, Spectral Features |
 
 </details>
 
@@ -152,7 +153,7 @@ me = SagharMehmood()
 
 - 🔬 Brainwave signal filtering and noise reduction
 - 📊 Alpha, Beta, Gamma, Theta, Delta frequency decomposition
-- ⚡ Optimized feature extraction for deep learning model input
+- ⚡ Optimized feature extraction for XGBoost classification input
 
 <br/>
 
@@ -164,9 +165,9 @@ me = SagharMehmood()
 
 > *Developed facial landmark detection and speech feature extraction pipelines for multimodal AI behavioral analysis.*
 
-- 👁️ Real-time facial landmark tracking using OpenCV
-- 🎙️ Acoustic feature extraction with Librosa (MFCC, ZCR, Spectral Rolloff)
-- 🔗 Modality fusion for multimodal AI integration
+- 👁️ Real-time facial landmark tracking and sequence modeling using LSTM
+- 🎙️ Acoustic feature extraction with Librosa (MFCC, Chroma)
+- 🔗 Multimodal fusion for unified deception detection
 
 ---
 
@@ -174,12 +175,12 @@ me = SagharMehmood()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SagharMehmood7860&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SagharMehmood7860&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SagharMehmood7860&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SagharMehmood7860&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagharMehmood7860&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagharMehmood7860&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -189,7 +190,7 @@ me = SagharMehmood()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SagharMehmood7860&theme=tokyo-night&hide_border=true&area=true&custom_title=Saghar's%20GitHub%20Activity%20Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SagharMehmood7860&theme=tokyo-night&hide_border=true&area=true&custom_title=Saghar's%20Contribution%20Graph" />
 
 </div>
 
@@ -227,7 +228,7 @@ me = SagharMehmood()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saghar-mehmood-701332296)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagharMehmood7860)
-[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-sattisaghar7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sattisaghar7@gmail.com)
 
 <br/>
 
