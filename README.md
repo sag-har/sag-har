@@ -1,39 +1,96 @@
-# Hi there, I'm Saghar Mehmood! 👋
+# Saghar Mehmood · he/him
 
-### 🚀 AI & Multimodal Systems Developer
-I am an AI engineering graduate specializing in **behavioral analysis, multimodal sensor fusion, and full-stack mobile development**. I focus on bridging the gap between human biological signals and intelligent systems.
+AI Engineer & Project Architect 🚀 | Multimodal Systems • Computer Vision • Signal Processing. Fusing EEG, Audio, and Vision data from pipeline to production.
 
----
-
-### 🧠 Featured Project: Multimodal Lie Detection System (MLDS)
-An advanced security and behavioral analysis framework that fuses multi-sensor inputs to detect deception in real-time.
-* 🎥 **Video Branch:** Expression tracking and facial feature mapping using CNN + LSTM models.
-* 🎙️ **Audio Branch:** Speech transcription and acoustic feature extraction using XGBoost.
-* ⚡ **EEG Branch:** Real-time brainwave frequency band distribution (Alpha, Beta, Gamma, Theta, Delta) monitoring.
+- Islamabad, Pakistan
+- [sattisaghar7@gmail.com](mailto:sattisaghar7@gmail.com)
+- [LinkedIn Profile](https://www.linkedin.com/in/saghar-mehmood-701332296)
 
 ---
 
-### 🛠️ Tech Stack & Toolbelt
+## 🧠 About Me
 
-| Category | Technologies |
-| :--- | :--- |
-| **Artificial Intelligence** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FlaskAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Frontend Mobile** | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| **Databases & Tools** | ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+- 🎓 **BS Artificial Intelligence (8th Semester)** — PMAS Arid Agriculture University, Rawalpindi
+- 📍 **Location:** Islamabad, Pakistan
+- 🧠 **Core Focus:** Multimodal Fusion Systems, Signal Processing (EEG), Computer Vision, Audio Analytics, Core AI/ML Architecture
+- 🎨 **Design Philosophy:** Clean, professional, and minimalist UI/UX aesthetics with precise blue & white palettes
+
+### 🚀 Technical Highlights
+
+- **Multimodal Data Fusion:** Developed an end-to-end architecture fusing bio-signals, facial landmarks, and speech features.
+- **Signal Processing:** Extracted and mapped EEG brainwave frequencies ($\alpha, \beta, \gamma$ bands) using neuro-interfaces.
+- **Vision & Audio Pipelines:** Built real-time facial emotion pipelines alongside acoustic feature extraction (MFCC & Chroma).
+- **Backend Architecture:** Structured robust, lightweight APIs capable of handling high-throughput sensor data synchronously.
+
+## 🔭 Designing production-grade intelligent systems, bridging hardware and software.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+### 🤖 AI / Deep Learning & Fusion
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 👁️ Computer Vision & Audio Analytics
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00C853?style=for-the-badge&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://img.shields.io/badge/Biosignal--Processing-EEG%20(Alpha,%20Beta,%20Gamma)-007ACC?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/Audio--Analysis-MFCC%20%26%20Chroma-3178C6?style=for-the-badge" height="28">
+
+### 🌐 Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 📱 Frontend & UI/UX
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23f7df1e)
+
+### 🛠️ Utilities & Tools
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007800?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![VLC](https://img.shields.io/badge/VLC-FF6000?style=for-the-badge&logo=vlc&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Capstone Project
+
+### 🧠 Multimodal Lie Detection System
+*An end-to-end AI system fusing multi-channel biosignals, facial expressions, and speech analytics to detect behavioral patterns and deception.*
+
+*   **Role:** Project Architect / Lead ML & Backend Engineer
+*   **The Problem:** Traditional polygraphs are bulky and rely on single-modality signals. This system introduces cross-modal verification.
+*   **Pipeline Details:**
+    *   **EEG (Brainwave) Network:** Real-time stream processing of Alpha, Beta, and Gamma bands to monitor cognitive load.
+    *   **Vision Network:** MediaPipe and custom CNNs tracking micro-expressions and facial landmarks for stress indicators.
+    *   **Audio Network:** Speech analysis using Mel-Frequency Cepstral Coefficients (MFCC) and Chroma features to detect vocal tremors.
+*   **System Fusion:** Fed cross-modal embeddings into a centralized fusion model to deliver a synchronized truth-probability output.
+*   **Interface:** Hosted on a high-throughput Python backend with an elegant, minimalist React Native application utilizing an academic blue-and-white theme.
+
+---
+
+## 💼 Experience & Open Source
+
+*   **AI Project Architect / Engineer** | Research-Driven Projects *(2025 - Present)*
+    *   Designing architecture designs for multi-modal machine learning pipelines.
+    *   Managing frontend-backend communication with asynchronous API gateways.
+*   **Graduate Student Researcher** | PMAS Arid Agriculture University *(Supervised by: Muhammad Ahsan)*
+    *   Focusing on behavioral AI, sensor alignment, and features optimization for deep neural networks.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagharMehmood7860&show_icons=true&theme=visual_studio_code" alt="Saghar's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagharMehmood7860&layout=compact&theme=visual_studio_code" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SagharMehmood7860&show_icons=true&theme=transparent&title_color=007acc&text_color=333333&icon_color=005571" alt="Saghar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagharMehmood7860&layout=compact&theme=transparent&title_color=007acc&text_color=333333" alt="Top Languages" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/saghar-mehmood-701332296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-* 📧 **Email:** sattisaghar7@gmail.com
-
-*"Building technology that understands human dynamics."*
+### 🤝 Let's Collaborate on Next-Gen AI
+Whether it's complex sensor data, custom vision models, or crafting minimalist, highly functional applications—let's build something impactful.
