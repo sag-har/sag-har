@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Saghar%20Mehmood&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Deep%20Learning%20%7C%20Multimodal%20AI&descAlignY=58&descAlign=50"/>
 
-# AI Engineer 🚀 | Deep Learning • Computer Vision • Multimodal AI
+# AI/ML Engineer 🚀 | Deep Learning • Computer Vision • Multimodal AI
 
 ### Building intelligent AI systems using EEG signals, facial analysis, and deep learning pipelines
 
@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GITHUB-SAGHARMEHMOOD7860-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SagharMehmood7860)
 
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT%20ME-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-sattisaghar7@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email@gmail.com)
 
 [![Location](https://img.shields.io/badge/RAWALPINDI-PAKISTAN-32CD32?style=for-the-badge\&logo=googlemaps\&logoColor=white)]()
 
@@ -24,7 +24,7 @@
 
 * 👨‍💻 Name: Saghar Mehmood
 * 🎓 BS Artificial Intelligence Graduate
-* 📍 Rawalpindi, Pakistan
+* 📍 Islamabad, Pakistan
 * 🧠 Focus: Deep Learning, Multimodal AI, EEG Signal Processing, Computer Vision, Backend AI Systems
 
 ---
@@ -117,13 +117,13 @@
 
 # 🚀 Featured Projects
 
-## 🧠 Multimodal Lie Detection System — Final Year Project
+## 🧠 Multimodal Lie Detection System — Research Project
 
 AI-powered deception detection system integrating EEG signals, facial expressions, and voice analysis into a unified multimodal prediction pipeline.
 
 ### 🔹 Features
 
-* CNN, LSTM, GRU, and XGBoost models
+* CNN, LSTM, and XGBoost models
 * EEG frequency-band analysis
 * Real-time facial expression detection
 * Audio feature extraction using Librosa
@@ -133,7 +133,7 @@ AI-powered deception detection system integrating EEG signals, facial expression
 
 ### 🛠️ Technologies
 
-Python • TensorFlow • Flask • React Native • OpenCV • DeepFace • SQL Server • Librosa
+Python • TensorFlow • Fast • Flask • React Native • OpenCV • DeepFace • SQL Server • Librosa
 
 ---
 
