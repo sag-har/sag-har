@@ -10,7 +10,7 @@ AI Engineer & Project Architect 🚀 | Multimodal Systems • Computer Vision �
 
 ## 🧠 About Me
 
-- 🎓 **BS Artificial Intelligence (8th Semester)** — PMAS Arid Agriculture University, Rawalpindi
+- 🎓 **BS Artificial Intelligence Graduate** — BIIT, PMAS Arid Agriculture University, Rawalpindi
 - 📍 **Location:** Islamabad, Pakistan
 - 🧠 **Core Focus:** Multimodal Fusion Systems, Signal Processing (EEG), Computer Vision, Audio Analytics, Core AI/ML Architecture
 - 🎨 **Design Philosophy:** Clean, professional, and minimalist UI/UX aesthetics with precise blue & white palettes
