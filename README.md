@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saghar%20Mehmood-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saghar-mehmood-701332296)
-[![GitHub](https://img.shields.io/badge/GitHub-SagharMehmood7860-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sag-har)
+[![GitHub](https://img.shields.io/badge/GitHub-Sag-har-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sag-har)
 [![Email](https://img.shields.io/badge/Email-sattisaghar7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sattisaghar7@gmail.com)
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D-Islamabad%2C%20Pakistan-32CD32?style=for-the-badge)](https://github.com/SagharMehmood7860)
 
