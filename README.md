@@ -120,7 +120,7 @@ I build end-to-end AI systems — from data pipelines and model training through
 ---
 
 ### 📄 DocuMind AI — RAG Document Q&A System
-**🔨 In Progress**
+**✅ Completed**
 
 **Problem:** Keyword-based document search returns low-relevance results and requires users to manually scan through large files. Standard search does not understand semantic meaning or context.
 
@@ -143,7 +143,7 @@ I build end-to-end AI systems — from data pipelines and model training through
 ---
 
 ### 💼 JobSense AI — Resume-to-Job Matching System
-**🔨 In Progress**
+**✅ Completed**
 
 **Problem:** Comparing resumes against job descriptions manually is time-intensive and inconsistent. There is no structured way to quantify candidate-role fit from unstructured text.
 
