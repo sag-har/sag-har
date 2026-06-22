@@ -20,7 +20,7 @@
 - 👨‍💻 **Name:** Saghar Mehmood
 - 🎓 **BS Artificial Intelligence Graduate — PMAS Arid Agriculture University Rawalpindi**
 - 📍 **Islamabad, Pakistan**
-- 🧠 **Focus:** Machine Learning · Computer Vision · NLP · RAG Systems · Backend AI
+- 🧠 **Focus:** Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI · RAG Systems · Backend AI
 
 I build end-to-end AI systems — from data pipelines and model training through API development and mobile integration. My final year project involved multimodal deception detection, where I designed separate ML pipelines for EEG, audio, and video signals and integrated them into a single Flask-based inference system with a React Native frontend.
 
@@ -28,7 +28,7 @@ I build end-to-end AI systems — from data pipelines and model training through
 
 ## 🚀 Highlights
 
-- 🎥 **Video Modality (BiLSTM)** — 93% accuracy on held-out facial expression sequences
+- 🎥 **Video Modality (LSTM)** — 93% accuracy on held-out facial expression sequences
 - 🧠 **EEG Modality (XGBoost)** — 83% accuracy on Muse 2 brainwave features
 - 🎤 **Audio Modality (XGBoost)** — 88% accuracy on 96-dimensional Librosa feature vectors
 - ⚡ **Flask REST API** — session management, file upload handling, and real-time inference endpoints
@@ -61,9 +61,11 @@ I build end-to-end AI systems — from data pipelines and model training through
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### 📱 Frontend
 
@@ -77,7 +79,7 @@ I build end-to-end AI systems — from data pipelines and model training through
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Figma](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 ---
 
@@ -94,7 +96,7 @@ I build end-to-end AI systems — from data pipelines and model training through
 
 | Modality | Model | Feature Source | Accuracy |
 |:---|:---|:---|:---:|
-| Video — Facial Expressions | BiLSTM | DeepFace action units via OpenCV | **93%** |
+| Video — Facial Expressions | LSTM | DeepFace action units via OpenCV | **93%** |
 | EEG — Brainwave Signals | XGBoost | Band power (α, β, γ, θ, δ) — Muse 2 | **83%** |
 | Audio — Voice Analysis | XGBoost | 96 Librosa features (MFCCs, pitch, spectral) | **88%** |
 
@@ -164,22 +166,27 @@ I build end-to-end AI systems — from data pipelines and model training through
 
 ---
 
-### 🚗 Vehicle Detection & Traffic Analytics System
+### 🚗 Vehicle Detection
 **✅ Completed**
 
-**Problem:** Manual traffic monitoring does not scale for multi-lane or real-time environments. Video-based monitoring requires automated pipelines to detect, track, and analyze vehicle movement across frames.
+**Problem:** Manual traffic monitoring and vehicle classification do not scale for real-time environments. Automated systems require high-accuracy deep learning pipelines capable of preprocessing raw image data and executing robust frame-level classifications.
 
-**Approach:** Built an OpenCV-based detection and tracking pipeline that processes video frame-by-frame, identifies vehicles using a pre-trained YOLO model, tracks them across frames with centroid-based tracking, and aggregates per-frame detections into traffic analytics.
+**Approach:** Developed a custom Convolutional Neural Network (CNN) pipeline from scratch using TensorFlow and Keras to detect and classify vehicles. The system pipeline processes input images through targeted normalization and augmentation layers, executes feature extraction, and evaluates performance metric outputs across diverse datasets.
 
 **Key Contributions:**
-- Integrated a pre-trained YOLO detection model with an OpenCV video processing loop for frame-level vehicle detection
-- Implemented centroid-based tracking to maintain vehicle identity across frames, including basic occlusion handling
-- Built an analytics layer to compute vehicle counts, estimated speeds, and lane distribution from tracking output
-- Designed the pipeline to handle variable lighting conditions and multi-lane footage
+**Custom CNN Architecture:** Designed and trained a deep Convolutional Neural Network (CNN) optimized for feature extraction and vehicle classification.
 
-**Outcome:** Functional pipeline for video-based traffic monitoring with per-lane vehicle counts and flow statistics as output.
+**Dataset Engineering:** Processed a comprehensive dataset of 1,700+ images, implementing OpenCV pipelines for normalization, image resizing, and data augmentation to prevent overfitting.
+
+**Model Evaluation:** Conducted rigorous evaluation on a held-out test split, achieving a validated accuracy of 82%.
+
+**Analytics Ingestion:** Integrated the trained TensorFlow/Keras weights into a backend processing loop designed to accept frame-extracted image matrices for structural traffic analysis.
+
+**Outcome:** A fully trained, high-accuracy CNN model and preprocessing pipeline that automates vehicle tracking and classification with clear, verifiable engineering metrics.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -190,15 +197,14 @@ I build end-to-end AI systems — from data pipelines and model training through
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SagharMehmood7860&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SagharMehmood7860&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sag-har&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sag-har&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagharMehmood7860&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sag-har&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
-
 ---
 
 ## 🎓 Education
@@ -206,17 +212,17 @@ I build end-to-end AI systems — from data pipelines and model training through
 🏫 **BS Computer Science (Artificial Intelligence)** — 2022 – 2026
 BIIT, PMAS Arid Agriculture University, Rawalpindi
 
-Relevant coursework: Machine Learning · Deep Learning · Computer Vision · Natural Language Processing · Signal Processing · Database Systems · Software Engineering
+**Relevant coursework:** Machine Learning · Deep Learning · Computer Vision · Generative AI · RAG · Natural Language Processing · Signal Processing · Database Systems · Software Engineering
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🐳 Docker & Containerization
-- ☁️ AWS Cloud Basics
-- ⚙️ MLOps Fundamentals — experiment tracking and model versioning with MLflow
-- 🚀 FastAPI — async patterns and dependency injection
-- 🔍 Vector Databases — Pinecone, Qdrant, Weaviate
+**- 🤖 **Agentic AI & Workflows**** — Autonomous multi-agent systems, LangGraph, and CrewAI frameworks
+**- 🐳 Docker & Containerization** — Containerizing microservices and managing multi-container networks
+**- ☁️ AWS Cloud Basics** — Deploying real-time AI backends on AWS Cloud Basics
+**- ⚙️ MLOps Fundamentals** — experiment tracking and model versioning with MLflow
+🔍 **Vector Databases** — High-concurrency indexing and hybrid search tuning in ChromaDB, Pinecone, and Qdrant
 
 ---
 
